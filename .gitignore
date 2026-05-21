@@ -1,0 +1,9 @@
+out/
+findings/
+*.log
+*.tar
+*.zip
+*.7z
+*.rar
+*.crash
+core
