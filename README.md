@@ -24,3 +24,11 @@ clamav-fuzz-lab/
 ├── corpus/
 ├── out/
 └── findings/
+```
+## Reproducibility Information
+
+Host:
+
+```bash
+docker --version
+```
