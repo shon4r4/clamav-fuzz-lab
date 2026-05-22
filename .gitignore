@@ -1,5 +1,5 @@
-!out/
-!findings/
+out/
+findings/
 *.log
 *.tar
 *.zip
